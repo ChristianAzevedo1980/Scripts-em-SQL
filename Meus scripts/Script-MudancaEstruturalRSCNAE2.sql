@@ -1,3 +1,4 @@
+-- ALTERACAO
 -- drop table if exists sandbox_dee.christiana_estrutura_mensal;
  
 INSERT INTO sandbox_dee.christiana_estrutura_mensal (

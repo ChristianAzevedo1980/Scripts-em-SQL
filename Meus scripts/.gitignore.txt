@@ -1,0 +1,42 @@
+
+# --- Arquivos de sistema (IDE - SSMS / VS) ---
+.vs/
+**/.vs/
+
+# Ignorar arquivos temporários do VS Shell
+*.suor
+*.user
+*.uerosscache
+*.slndocstates
+*.slnx
+*.sqlite
+*.tmp
+*.cache
+*.log
+
+# Arquivos internos de estado do VS/SSMS
+*.sqlite
+*.db
+VSworkspacestate.json
+
+# Arquivos temporários genéricos
+*.tmp
+*.temp
+*.orig
+*.old
+
+# Arquivos de log e dump
+
+*.log
+dump/
+
+# Arquivos de banco
+*.mdf
+*.ldf
+*.ndf
+
+# Arquivos temporários do Office
+*.tmp.docx
+*.tmp.xlsx
+*.pdf
+*.tmp.pptx
